@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\obj\Debug\netcoreapp3.1\Fizz_Buzz.csprojAssemblyReference.cache
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\obj\Debug\netcoreapp3.1\Fizz_Buzz.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\obj\Debug\netcoreapp3.1\Fizz_Buzz.AssemblyInfo.cs
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\obj\Debug\netcoreapp3.1\Fizz_Buzz.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\bin\Debug\netcoreapp3.1\Fizz_Buzz.exe
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\bin\Debug\netcoreapp3.1\Fizz_Buzz.deps.json
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\bin\Debug\netcoreapp3.1\Fizz_Buzz.runtimeconfig.json
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\bin\Debug\netcoreapp3.1\Fizz_Buzz.runtimeconfig.dev.json
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\bin\Debug\netcoreapp3.1\Fizz_Buzz.dll
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\bin\Debug\netcoreapp3.1\Fizz_Buzz.pdb
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\obj\Debug\netcoreapp3.1\Fizz_Buzz.dll
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\obj\Debug\netcoreapp3.1\Fizz_Buzz.pdb
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Fizz_Buzz\obj\Debug\netcoreapp3.1\Fizz_Buzz.genruntimeconfig.cache
