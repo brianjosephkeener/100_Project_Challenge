@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\bin\Debug\netcoreapp3.1\Reverse_String.exe
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\bin\Debug\netcoreapp3.1\Reverse_String.deps.json
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\bin\Debug\netcoreapp3.1\Reverse_String.runtimeconfig.json
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\bin\Debug\netcoreapp3.1\Reverse_String.runtimeconfig.dev.json
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\bin\Debug\netcoreapp3.1\Reverse_String.dll
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\bin\Debug\netcoreapp3.1\Reverse_String.pdb
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\obj\Debug\netcoreapp3.1\Reverse_String.csprojAssemblyReference.cache
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\obj\Debug\netcoreapp3.1\Reverse_String.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\obj\Debug\netcoreapp3.1\Reverse_String.AssemblyInfo.cs
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\obj\Debug\netcoreapp3.1\Reverse_String.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\obj\Debug\netcoreapp3.1\Reverse_String.dll
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\obj\Debug\netcoreapp3.1\Reverse_String.pdb
+C:\Users\root\Desktop\github\100_Project_Challenge\C#\Reverse_String\obj\Debug\netcoreapp3.1\Reverse_String.genruntimeconfig.cache
